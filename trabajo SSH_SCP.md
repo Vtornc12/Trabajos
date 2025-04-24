@@ -53,6 +53,16 @@ Desde la máquina A, creamos el archivo `prueba2` para transferirlo a la máquin
 
 ![Crear archivo en A](images/image7.png)
 
+### 📄 ** Pasar `prueba` y  `prueba2` al escritorio**
+
+Ahora pasaremos ambos archivos directamente al escritorio
+
+![Transferir carpeta prueba](images/imageA.png)
+
+![Transferir carpeta prueba2](images/imageB.png)
+
+![Resultado](images/Resultado.png)
+
 ### 📂 **4. Crear y transferir carpeta `prueba3`**
 Creamos una carpeta llamada `prueba3` con 200 archivos dentro:
 
