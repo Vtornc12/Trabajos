@@ -61,7 +61,7 @@ Ahora pasaremos ambos archivos directamente al escritorio
 
 ![Transferir carpeta prueba2](images/imageB.png)
 
-![Resultado](images/Resultado.png)
+![Resultado](images/Result.png)
 
 ### 📂 **4. Crear y transferir carpeta `prueba3`**
 Creamos una carpeta llamada `prueba3` con 200 archivos dentro:
