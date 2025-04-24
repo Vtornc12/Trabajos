@@ -78,6 +78,3 @@ Comprobamos que la carpeta `prueba3` se haya copiado correctamente al escritorio
 
 ---
 
-📂 **Recuerda:** todas las imágenes deben estar en la carpeta `images/` del repositorio para que se visualicen correctamente.
-
-
