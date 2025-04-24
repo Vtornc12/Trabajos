@@ -22,7 +22,7 @@ Creamos ambos usuarios en cada máquina:
 
 ## 🛠️ **Corrección de la configuración**
 
-En esta imagen se muestra la configuración corregida de la máquina A:
+Accedemos a la máquina A y la configuramos
 
 ![Configuración corregida](images/image3.png)
 
