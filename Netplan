@@ -4,21 +4,21 @@ Como primer paso haremos dos clonaciones enlazadas, activando la opción de nuev
 
 ### Máquina A
 
-[Imagen1](enlace-a-Imagen1)
+![Imagen1](FotosN/imagen1.png)
 
 ### Máquina B
 
-[Imagen2](enlace-a-Imagen2)
+![Imagen2](FotosN/imagen2.png)
 
 Ahora modificamos las propiedades de red de las máquinas recién creadas, activando el adaptador 2 en ambas y conectándolos a red interna con el nombre de `intnet`.
 
 ### Máquina A
 
-[Foto3](enlace-a-Foto3)
+![Foto3](FotosN/foto3.png)
 
 ### Máquina B
 
-[Foto4](enlace-a-Foto4)
+![Foto4](FotosN/foto4.png)
 
 ## Asignación de IPs
 
@@ -26,39 +26,40 @@ En el siguiente paso pondremos las IPs correspondientes a las máquinas.
 
 ### Máquina A
 
-[Foto5](enlace-a-Foto5)
+![Foto5](FotosN/foto5.png)
 
 ### Máquina B
 
-[Foto6](enlace-a-Foto6)
+![Foto6](FotosN/foto6.png)
 
 Ahora mediante un ping comprobaremos que las máquinas conectan y las IPs son las correctas.
 
-[Foto7](enlace-a-Foto7)
+![Foto7](FotosN/foto7.png)
 
 ## Instalación de ifupdown
 
 Continuaremos instalando ifupdown.
 
-[Foto8](enlace-a-Foto8)
+![Foto8](FotosN/foto8.png)
 
 ## Configuración con Netplan
 
 Después configuramos la máquina desde Netplan.
 
-[Foto9](enlace-a-Foto9)
+![Foto9](FotosN/foto9.png)
 
 Probamos que funcione.
 
-[Foto10](enlace-a-Foto10)
+![Foto10](FotosN/foto10.png)
 
 Justo después de probarlo lo aplicamos.
 
-[Foto11](enlace-a-Foto11)
+![Foto11](FotosN/foto11.png)
 
 ## Configuración persistente con NetworkManager
 
 Mediante NetworkManager, configuramos la máquina B para que la conexión sea persistente.
 
-[Foto12](enlace-a-Foto12)
+![Foto12](FotosN/foto12.png)
+
 
