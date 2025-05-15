@@ -71,7 +71,7 @@
 
 ---
 
-## 🛠️ Instalamos el disco Kali em la máquina Debian
+## 🛠️ Instalamos el disco Kali en la máquina Debian
 
 ![Imagen](img/img2.png)
 
